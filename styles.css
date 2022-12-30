@@ -1,34 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
 
-*
-{
+* {
     font-family: 'Kanit', sans-serif;
     transform: scale(1);
 }
 
-body
-{
+body {
     margin: 20px;
     background: lightblue;
 }
 
-button
-{
+button {
     background-color: white;
 }
 
-button:hover
-{
+button:hover {
     background-color: lightcoral;
 }
 
-.shop
-{
+.shop {
     display: inline-block;
     padding-left: 100px;
 }
 
-.main
-{
+.main {
     display: inline-block;
 }
